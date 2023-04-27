@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cedri
+ *
+ */
+module Random {
+}
